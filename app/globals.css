@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-.bg-gradient {
-    @apply bg-gradient-to-r from-blue-500;
-}
+/*.bg-gradient {*/
+/*    @apply bg-gradient-to-r from-blue-500;*/
+/*}*/
 
 @layer base {
     html,
